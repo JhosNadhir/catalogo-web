@@ -18,4 +18,5 @@ Documentaré las etiquetas HTML y propiedades CSS que más han servido o gustado
 - width, height
 - display, padding, margin, border
 
+![captura de pantalla del sitio](image.png)
 
